@@ -1,2 +1,3 @@
-# edayasneham
-Website for Edayasneham Video Album
+# EDAYASNEHAM || ഇടയസ്നേഹം 
+
+A Christian Devotional Video Album 
