@@ -8,3 +8,7 @@ youtubeId: IPAHOOj--6s
 {% include youtubePlayer.html id=page.youtubeId %}
 
 
+...
+{% include open-embed.html %}
+
+
