@@ -58,7 +58,7 @@ Lyrics : Sr. SHALINI,  MOUNT TABOR CONVENT ● Music : VIOLIN JOSE KUNDARA
     margin: 0 auto;
     display: block;
 }
-audio { width: 150px; display: block; margin:20px; }
+audio { width: auto; display: block; margin:20px; }
  /* Style buttons */
 .btn {
   background-color: DodgerBlue;
@@ -93,7 +93,7 @@ audio { width: 150px; display: block; margin:20px; }
 ### Listen to the Song || ഗാനം കേള്‍ക്കുക
 
 
-<audio id="player" style="width: 500px;margin-top:10px;margin-bottom:10px" src="/assets/music/edayasneham.mp3" controls loop autoplay></audio>
+<audio id="player" style="width: 500px;margin-top:10px;margin-bottom:10px" src="/assets/music/edayasneham.mp3" type="audio/mpeg" controls loop autoplay></audio>
 
 ### Click the button to download the song
 
