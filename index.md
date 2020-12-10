@@ -93,7 +93,10 @@ audio { width: 80%; display: block; margin:20px; }
 ### Listen to the Song || ഗാനം കേള്‍ക്കുക
 
 
-<audio id="player" style="margin-top:10px;margin-bottom:10px" src="/assets/music/edayasneham.mp3" controls loop autoplay>Audio player not supported</audio>
+<audio id="player" style="margin-top:10px;margin-bottom:10px" 
+src="/assets/music/edayasneham.mp3"
+src="/assets/music/edayasneham.ogg"
+ controls loop autoplay>Audio player not supported</audio>
 
 ### Click the button to download the song
 
