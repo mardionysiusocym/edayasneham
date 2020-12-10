@@ -1,8 +1,9 @@
 theme: jekyll-theme-cayman
-show_downloads: true
+
 
 title: Edayasneham || ഇടയസ്നേഹം
-description: >-
-A Christian Devotional Video Album 
+description: A Christian Devotional Video Album 
 
+github:
+  is_project_page: false
 
