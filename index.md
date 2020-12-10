@@ -7,8 +7,7 @@ youtubeId: IPAHOOj--6s
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
+<audio src="/assets/music/edayasneham.mp3" controls preload></audio>
 
-...
-{% include open-embed.html %}
 
 
