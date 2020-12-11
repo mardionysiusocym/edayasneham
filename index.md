@@ -94,9 +94,8 @@ audio { width: 80%; display: block; margin:20px; }
 
 
 <audio id="player" style="margin-top:10px;margin-bottom:10px" 
-src="/assets/music/edayasneham.mp3"
 src="/assets/music/edayasneham.ogg"
- controls loop autoplay>Audio player not supported</audio>
+ controls loop autoplay type="audio/ogg">Audio player not supported</audio>
 
 ### Click the button to download the song
 
